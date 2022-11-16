@@ -1,0 +1,90 @@
+.card-text {
+    text-align: center;
+}
+
+.row {
+    margin-bottom: 10px;
+}
+
+.action-row {
+    margin-top: 10px;
+    height: 50px;
+    text-align: center;
+}
+
+.grass {
+    background-image: url('https://www.enjpg.com/img/2020/grass-background-2.jpg');
+    width: 100%;
+    color: white;
+}
+
+.fire {
+    background-image: url('https://static.vecteezy.com/system/resources/previews/000/831/968/non_2x/fire-background-photo.jpg');
+    width: 100%;
+    color: white;
+}
+
+.water {
+    background-image: url('https://i.natgeofe.com/n/c199c917-f357-45b2-9940-77784ed98d2d/why-is-america-running-out-of-water_2x1.jpg');
+    color: white;
+}
+
+.bug {
+    background-image: url('type-bg/bug-type.png');
+    color: white;
+}
+
+.normal {
+    background-image: url('type-bg/normal-type.png');
+    color: white;
+}
+
+.poison {
+    background-image: url('https://s3.envato.com/files/34fd0983-37d6-4473-981c-56b880d2c20e/inline_image_preview.jpg');
+    color: white;
+}
+
+.electric {
+    background-image: url('https://previews.123rf.com/images/cappan/cappan1410/cappan141000009/32339612-blue-electric-lighting-abstract-electrical-background.jpg');
+    color: white;
+}
+
+.ground {
+    background-image: url('type-bg/ground-type.png');
+    color: white;
+}
+
+.fighting {
+    background-image: url('type-bg/fighting-type.png');
+    color: white;
+}
+
+.psychic {
+    background-image: url('type-bg/psychic-type.png');
+    color: white;
+}
+
+.rock {
+    background-image: url('https://m.media-amazon.com/images/I/51j0SosPW2L._AC_SY780_.jpg');
+    color: white;
+}
+
+.ghost {
+    background-image: url('type-bg/ghost-type.png');
+    color: white;
+}
+
+.ice {
+    background-image: url('type-bg/ice-type.png');
+    color: white;
+}
+
+.dragon {
+    background-image: url('type-bg/dragon-type.png');
+    color: white;
+}
+
+
+/*.default {
+    background-image: url('type-bg/')
+}*/
